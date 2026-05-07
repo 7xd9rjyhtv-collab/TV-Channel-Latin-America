@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://181.176.155.7:8090/play/a1vh/index.m3u8
+#EXTINF:-1,AMC HD
+http://181.176.155.7:8090/play/a1vw/index.m3u8
+#EXTINF:-1,ATV HD
+http://181.176.155.7:8090/play/a1uj/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.176.155.7:8090/play/a1cl/index.m3u8
+#EXTINF:-1,Adult Swim HD
+http://181.176.155.7:8090/play/a1lf/index.m3u8
+#EXTINF:-1,America TV HD
+http://181.176.155.7:8090/play/a1u7/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://181.176.155.7:8090/play/a1ch/index.m3u8
+#EXTINF:-1,BETHEL TV HD
+http://181.176.155.7:8090/play/a13v/index.m3u8
+#EXTINF:-1,Baby TV HD
+http://181.176.155.7:8090/play/a1nl/index.m3u8
+#EXTINF:-1,CANAL N HD
+http://181.176.155.7:8090/play/a1q2/index.m3u8
+#EXTINF:-1,Cartoonito HD
+http://181.176.155.7:8090/play/a1vi/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://181.176.155.7:8090/play/a1k4/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://181.176.155.7:8090/play/a1q3/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://181.176.155.7:8090/play/a13h/index.m3u8
+#EXTINF:-1,DHE HD
+http://181.176.155.7:8090/play/a1fh/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://181.176.155.7:8090/play/a0p5/index.m3u8
+#EXTINF:-1,De PelŦcula HD
+http://181.176.155.7:8090/play/a1ti/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://181.176.155.7:8090/play/a1k3/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://181.176.155.7:8090/play/a1l5/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://181.176.155.7:8090/play/a1kn/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://181.176.155.7:8090/play/a1k7/index.m3u8
+#EXTINF:-1,Disney Junior HD
+http://181.176.155.7:8090/play/a1l7/index.m3u8
+#EXTINF:-1,E! Entertainment TV HD
+http://181.176.155.7:8090/play/a1lb/index.m3u8
