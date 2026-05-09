@@ -115,3 +115,29 @@ http://181.176.155.7:8090/play/a1uk/index.m3u8
 http://181.176.155.7:8090/play/a1ka/index.m3u8
 #EXTINF:-1,Sony HD
 http://181.176.155.7:8090/play/a1ck/index.m3u8
+#EXTINF:-1,Space HD
+http://181.176.155.7:8090/play/a1k6/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://181.176.155.7:8090/play/a1w2/index.m3u8
+#EXTINF:-1,TNT HD
+http://181.176.155.7:8090/play/a1kb/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://181.176.155.7:8090/play/a1cp/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://181.176.155.7:8090/play/a1tz/index.m3u8
+#EXTINF:-1,TV Peru HD
+http://181.176.155.7:8090/play/a1v5/index.m3u8
+#EXTINF:-1,TYC HD
+http://181.176.155.7:8090/play/a1pb/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://181.176.155.7:8090/play/a1tj/index.m3u8
+#EXTINF:-1,Tlnovelas HD
+http://181.176.155.7:8090/play/a1tx/index.m3u8
+#EXTINF:-1,Tooncast HD
+http://181.176.155.7:8090/play/a1ld/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://181.176.155.7:8090/play/a1co/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://181.176.155.7:8090/play/a1k5/index.m3u8
+#EXTINF:-1,Willax HD
+http://181.176.155.7:8090/play/a1v4/index.m3u8
