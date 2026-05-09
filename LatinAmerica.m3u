@@ -99,3 +99,19 @@ http://181.176.155.7:8090/play/a1nj/index.m3u8
 http://181.176.155.7:8090/play/a0xj/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://181.176.155.7:8090/play/a1cj/index.m3u8
+#EXTINF:-1,Nick HD
+http://181.176.155.7:8090/play/a1kg/index.m3u8
+#EXTINF:-1,Nick Jr HD
+http://181.176.155.7:8090/play/a1la/index.m3u8
+#EXTINF:-1,Panamericana HD
+http://181.176.155.7:8090/play/a1ui/index.m3u8
+#EXTINF:-1,Paramount HD
+http://181.176.155.7:8090/play/a1jp/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://181.176.155.7:8090/play/a1fe/index.m3u8
+#EXTINF:-1,RPP HD
+http://181.176.155.7:8090/play/a1uk/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://181.176.155.7:8090/play/a1ka/index.m3u8
+#EXTINF:-1,Sony HD
+http://181.176.155.7:8090/play/a1ck/index.m3u8
